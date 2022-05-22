@@ -1,0 +1,13 @@
+{
+    "editor.fontLigatures": null,
+    "color-highlight.languages": [
+
+        "*"
+    ],
+    "color-highlight.matchWords": true,
+    "color-highlight.sass.includePaths": [
+    
+    ],
+    "color-highlight.markerType": "undeline",
+    "typescript.tsdk": "node_modules\\typescript\\lib"
+}
